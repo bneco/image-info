@@ -1,0 +1,9 @@
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\bin\Debug\img.service.dll
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\bin\Debug\img.service.pdb
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\bin\Debug\img.data.dll
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\bin\Debug\img.data.pdb
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\obj\Debug\img.service.csprojAssemblyReference.cache
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\obj\Debug\img.service.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\obj\Debug\img.service.csproj.CopyComplete
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\obj\Debug\img.service.dll
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.service\obj\Debug\img.service.pdb
