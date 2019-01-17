@@ -1,0 +1,54 @@
+﻿@model img.client.Models.ImageModel
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2 class="text-primary">Image Information</h2>
+
+<p>Enter the url of an image into the box below. Click the button to display information about the image.</p>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    <div class="form-group">
+        @Html.LabelFor(model => model.Url, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Url, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Url, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-10">@Html.ValidationSummary(true, "", new { @class = "text-danger" })</div>
+    </div>
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Retrieve image information for above url" class="btn btn-primary" />
+        </div>
+    </div>
+</div>
+}
+
+@if (Model.IsInformationAvailable)
+{
+    <div class="row">
+        <div class="col-md-12"><h3 class="text-primary">Results</h3></div>
+    </div>
+
+    foreach (var item in Model.infoModels)
+    {
+        <div class="row">
+            <div class="col-md-2"><strong>@Html.DisplayFor(model => item.Property)</strong></div>
+            <div class="col-md-10">@Html.DisplayFor(model => item.Value)</div>
+        </div>
+    }
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
