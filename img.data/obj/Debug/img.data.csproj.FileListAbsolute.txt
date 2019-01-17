@@ -1,0 +1,6 @@
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.data\bin\Debug\img.data.dll
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.data\bin\Debug\img.data.pdb
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.data\obj\Debug\img.data.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.data\obj\Debug\img.data.dll
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.data\obj\Debug\img.data.pdb
+C:\Users\John\Documents\Jobs\Applications\2019\_Jump - Croydon- Tunbridge Wells\FocalAgent\img.data\obj\Debug\img.data.csprojAssemblyReference.cache
